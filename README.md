@@ -4,4 +4,4 @@
 
 <h1 align="center">Brain Tumor Classification with Deep Learning</h1>
 
-<p align="center">This project is part of my minor AI for Society that I am currently doing at Fontys University of Applied Sciences. I wanted to challenge myself throughout this minor and decided to how to apply deep learning algorithms.</p>
+<p align="center">This project was part of my minor AI for Society that I have completed at Fontys University of Applied Sciences. I wanted to challenge myself throughout this minor and decided to apply deep learning algorithms.</p>

@@ -4,7 +4,7 @@
 
 <h1 align="center">Brain Tumor Classification with Deep Learning</h1>
 
-<p>This project is part of my minor AI for Society that I have completed at Fontys University of Applied Sciences. I wanted to challenge myself throughout this minor and decided to how to apply deep learning algorithms. The algorithms chosen were CNN and EfficientNetBO. </p>
+<p>This project is part of my minor AI for Society that I have completed at Fontys University of Applied Sciences. I wanted to challenge myself throughout this minor and decided to apply deep learning algorithms. The algorithms chosen were CNN and EfficientNetBO. </p>
 
 Here are two of the notebooks on which I have worked on. The first one is representing the CNN algorithm and the second one is the EfficientNetBO algorithm.
 
